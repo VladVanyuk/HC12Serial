@@ -1,0 +1,14 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HC12Serial      KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin           KEYWORD2
+setModeOn       KEYWORD2
+setModeOff      KEYWORD2
+isListening     KEYWORD2
